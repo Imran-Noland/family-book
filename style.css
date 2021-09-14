@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+  }
+  #firstp{
+    word-spacing: 10px;
+    font-size: 80px;
+    font-variant: small-caps;
+  }
+  #album{
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-color: green;
+    
+  }
+  #r1{
+    font-size: 40px;
+  }
+  
